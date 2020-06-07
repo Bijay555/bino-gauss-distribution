@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: bino-gauss-distribution
+Version: 0.2
+Summary: Binomial & Gaussian distributions
+Home-page: https://github.com/Bijay555/bino-gauss-distribution
+Author: Bijay Adhikari
+Author-email: bjsharma555@gmail.com
+License: UNKNOWN
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
